@@ -222,7 +222,6 @@ Hooks.on("deleteCombat", function () {
 Hooks.on("preCreateChatMessage", function (chatMessage) {
 	let chatData = {
 		speaker: {
-			actor: null,
 			scene: null,
 			flags: {},
 		},
