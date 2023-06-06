@@ -8,4 +8,4 @@ Theatre is a mod for FVTT, and a future VTT that allows for a visual novel style
 
 [Introduction](/wiki/instructions/home/introduction_to_theater.md)
 
-Control Reference
+Control Reference.
